@@ -12,6 +12,7 @@
     export default {
         props:['message'],
     }
+    ////dawdawdawdawdawd
 </script>
 
 <style>
